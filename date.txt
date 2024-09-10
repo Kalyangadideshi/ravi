@@ -1,0 +1,6 @@
+echo "helo world"
+echo "at this $(date) on this $(time)"
+ls
+cd /Users/mac/Documents/task1\&2
+ echo "javac Factorial.java"
+ echo "java Factoria
