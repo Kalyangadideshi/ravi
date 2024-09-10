@@ -1,0 +1,5 @@
+nacy document
+General: Set the profile for the startup window, for new windows and tabs, and choose the shell to use.
+Profiles: Create profiles to change how Terminal windows look.
+Window Groups: Manage groups of Terminal windows.
+More items...
